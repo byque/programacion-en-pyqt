@@ -6,6 +6,6 @@ no aparezca una ventana de consola cuando se ejecuta una aplicación Python GUI.
 
 **Windows**: path_to_python\pythonw.exe .\hola_pyqt.pyw
 
-## Resultado
-
-![alt text](./hola_pyqt.png "Ventana Demo")
+Si la variable de entorno de Python está configurada sólo es necesario el
+siguiente comando:
+.\hola_pyqt.pyw
