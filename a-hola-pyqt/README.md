@@ -1,5 +1,5 @@
 hola_pyqt.pyw
-#############
+=============
 
 Para ejecutar esta aplicación se puede usar el interpretador pythonw para que
 no aparezca una ventana de consola cuando se ejecuta una aplicación Python GUI.

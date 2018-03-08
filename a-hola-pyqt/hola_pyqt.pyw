@@ -34,7 +34,7 @@ class VentanaDemo(QtGui.QWidget):
 
         """
         super(VentanaDemo, self).__init__(parent)
-        self.setGeometry(300, 300, 200, 200)
+        self.setGeometry(300, 300, 250, 100)
         self.setWindowTitle('Ventana Demo')
         salir = QtGui.QPushButton('Cerrar', self)
         salir.setGeometry(10, 10, 70, 40)
